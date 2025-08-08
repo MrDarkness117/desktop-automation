@@ -5,4 +5,4 @@ This is a framework created using desktop-automation, a wrapper made by victorki
 This is a project that I used for demonstrating how Windows can be automated. For that reason it may seem raw, some methods were implemented inside classes, such as teardowns instead of being set in capabilities and used as pytest fixtures. Besides that, some file paths are set here too, instead of using `os.cwd()` method, or something like it. So please bear with me here.
 
  ## Goal of this project
- The goal of this project was to show how some things that are common in automation with Selenium can be done easier, or otherwise in a different approach than using Page Object Model, which is mostly derived from Java and is inapplicable for Python, when in reality it can be simplified.
+ The goal of this project was to show how some things that are common in automation with Selenium can be done easier, or otherwise with a different approach than using Page Object Model, which is mostly derived from Java and is inapplicable for Python, when in reality it can be simplified.
