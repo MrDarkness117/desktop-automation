@@ -11,6 +11,11 @@ from appium.webdriver.common.appiumby import AppiumBy
 
 from selenium.webdriver.remote.command import Command
 from selenium.webdriver.common.keys import Keys
+
+"""
+This file demonstrates a basic example of how to use the webdriver's locators to work with UI elements.
+"""
+
 caps = DesktopOptions()
 caps.set_capability("app","C:\\Windows\\System32\\notepad.exe")
 

@@ -14,6 +14,10 @@ from src.automaton.windowsby import WindowsBy
 from src.automaton import webdriver
 from src.automaton.options import DesktopOptions
 
+"""
+This file demonstrates a more object-oriented approach.
+"""
+
 
 class TestPaint(BaseTest):
 
